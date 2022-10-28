@@ -1,0 +1,7 @@
+.man {
+  width: 400px;
+}
+.man:hover {
+  transition: all 0.5s ease-in;
+  transform: scale(1.1);
+}
